@@ -1,5 +1,6 @@
 tags:
-  - puts
+  - puts 
+  
   - tictactoe
 languages:
   - ruby
