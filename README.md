@@ -1,8 +1,6 @@
 # Welcome Message for Tic Tac Toe
 
-## Overview
 
-We're going to build a simple program that implements only the very first thing a complete Tic Tac Toe program would require, which is to greet the player with a welcome message.
 
 ## Objectives
 
