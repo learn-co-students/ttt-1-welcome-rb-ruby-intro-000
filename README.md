@@ -5,7 +5,7 @@
 We're going to build a simple program that implements only the very first thing a complete Tic Tac Toe program would require, which is to greet the player with a welcome message.
 
 ## Objectives
-
+puts "Welcome to Tic Tac Toe!"
 1. Read the output from running `learn`.
 2. Use `puts` to print "Welcome to Tic Tac Toe!"
 3. Have tests pass locally by running `learn`.
@@ -29,7 +29,7 @@ Here are some things you can try to get more clues to solve the lab.
 
 When you run `ruby lib/welcome.rb` from your terminal you are asking the Ruby interpreter to run your program. If you see no output, like below, that means there is no code in `lib/welcome.rb` to print "Welcome to Tic Tac Toe!".
 
-**Note:** The file `welcome.rb` already exists in the folder `lib`, but is not displayed in Learn IDE default view. 
+**Note:** The file `welcome.rb` already exists in the folder `lib`, but is not displayed in Learn IDE default view.
 
 ![No Puts](http://learn-co-videos.s3.amazonaws.com/ruby/no.puts.in.code.gif)
 
