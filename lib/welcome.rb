@@ -1,1 +1,1 @@
-ruby lib/welcome.
+puts "Welcome to Tic Tac Toe!"
