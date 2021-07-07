@@ -1,4 +1,4 @@
-# Welcome Message for Tic Tac Toe
+puts "Welcome to Tic Tac Toe!"
 
 ## Overview
 
@@ -15,7 +15,7 @@ We're going to build a simple program that implements only the very first thing 
 
 1. Run `learn`
 2. Read output.
-3. Code solution in `lib/welcome.rb`
+3. Code solution in `ib/welcome.rb`
 4. Run `learn`
 5. Read output.
 6. If still broken, repeat 3-5
@@ -29,7 +29,7 @@ Here are some things you can try to get more clues to solve the lab.
 
 When you run `ruby lib/welcome.rb` from your terminal you are asking the Ruby interpreter to run your program. If you see no output, like below, that means there is no code in `lib/welcome.rb` to print "Welcome to Tic Tac Toe!".
 
-**Note:** The file `welcome.rb` already exists in the folder `lib`, but is not displayed in Learn IDE default view. 
+**Note:** The file `welcome.rb` already exists in the folder `lib`, but is not displayed in Learn IDE default view.
 
 ![No Puts](http://learn-co-videos.s3.amazonaws.com/ruby/no.puts.in.code.gif)
 
